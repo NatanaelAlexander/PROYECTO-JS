@@ -1,0 +1,20 @@
+:root {
+      --main_coloo: #1f87c4;
+}
+
+body {
+      background: url('../img/cielo.jpg');
+      background-attachment: fixed;
+}
+
+#logo {
+      background-color: var(--main_coloo);
+}
+
+#menu ul li:hover {
+      background-color: var(--main_coloo);
+}
+
+.button-more {
+      background-color: var(--main_coloo);
+}

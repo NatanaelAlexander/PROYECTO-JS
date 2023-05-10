@@ -1,0 +1,21 @@
+:root {
+      --main_coloo: #ca3413;
+}
+
+
+body {
+      background: url('../img/rojo.jpg');
+      background-attachment: fixed;
+}
+
+#logo {
+      background-color: var(--main_coloo);
+}
+
+#menu ul li:hover {
+      background-color: var(--main_coloo);
+}
+
+.button-more {
+      background-color: var(--main_coloo);
+}
